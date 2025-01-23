@@ -24,8 +24,8 @@
 <table align="center">
    <tr>
       <td align="center" width="96">
-         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></a>
-         <br>Django
+         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+         <br>Python
       </td>
       <td align="center" width="96">
          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>
@@ -54,8 +54,8 @@
    </tr>
    <tr>
       <td align="center" width="96">
-         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
-         <br>Python
+         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></a>
+         <br>Django
       </td>
       <td align="center" width="96">
          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="65" height="65" /></a>
@@ -120,12 +120,12 @@
    </tr>
    <tr>
       <td align="center" width="96">
-         <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40" /></a>
-         <br>npm
+         <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+         <br>Flutter
       </td>
       <td align="center" width="96">
-         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40" /></a>
-         <br>Express
+         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" /></a>
+         <br>Spring Boot
       </td>
       <td align="center" width="96">
          <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" /></a>
