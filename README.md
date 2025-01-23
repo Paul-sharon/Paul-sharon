@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Rcss**
+- 🔭 I’m currently working on **Geojit Technologies**
 
-- 🌱 I’m currently learning **Python-Django**
+- 🌱 I’m currently learning **Flutter & Spring-boot**
 
-- 💬 Ask me about **Java,c,python**
+- 💬 Ask me about **Java,spring-boot,dart,flutter**
 
 - 📫 How to reach me **paulsharons66@gmail.com**
 
@@ -154,19 +154,13 @@
       </td>
    </tr>
 </table>
-
-
-
-
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-sharon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
-<p align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=paul-sharon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" />
