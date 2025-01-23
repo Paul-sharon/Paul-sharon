@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Paul-sharon.io)
+   [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Paul-sharon.io)
 <h1 align="center">Hi 👋, I'm Paul Sharon</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -84,17 +84,21 @@
    </tr>
    <tr>
       <td align="center" width="96">
-         <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-         <br>Flutter
-      </td>
-      <td align="center" width="96">
-         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" /></a>
-         <br>Spring Boot
+         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+         </a>
+         <br>Docker
       </td>
       <td align="center" width="96">
          <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40" /></a>
          <br>Android
       </td>
+      <td align="center" width="96">
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+    </a>
+    <br>Dart
+</td>
       <td align="center" width="96">
          <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
          <br>Arduino
@@ -107,6 +111,12 @@
          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="Linux" width="40" height="40" /></a>
          <br>Linux
       </td>
+      <td align="center" width="96">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+    </a>
+    <br>React
+</td>
    </tr>
    <tr>
       <td align="center" width="96">
@@ -127,6 +137,7 @@
       </td>
    </tr>
 </table>
+
 
 
 
