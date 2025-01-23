@@ -132,6 +132,23 @@
          <br>Postman
       </td>
       <td align="center" width="96">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+    </a>
+    <br>Figma
+<td align="center" width="96">
+    <a href="https://struts.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" alt="Struts" width="40" height="40"/>
+    </a>
+    <br>Struts
+</td>
+      <td align="center" width="96">
+    <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/>
+    </a>
+    <br>Hibernate
+</td>
+      <td align="center" width="96">
          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
          <br>MongoDB
       </td>
