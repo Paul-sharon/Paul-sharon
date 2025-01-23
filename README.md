@@ -35,9 +35,9 @@
          <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" /></a>
          <br>Spring Boot
       </td>
-      <td align="center" width="96">
-         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" /></a>
-         <br>Postman
+       <td align="center" width="96">
+         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
+         <br>MySQL
       </td>
       <td align="center" width="96">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -74,9 +74,9 @@
          <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40" /></a>
          <br>Laravel
       </td>
-      <td align="center" width="96">
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
-         <br>MySQL
+       <td align="center" width="96">
+         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="65" height="65" /></a>
+         <br>Postman
       </td>
       <td align="center" width="96">
          <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40" /></a>
