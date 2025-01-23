@@ -5,32 +5,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-sharon&label=Profile%20views&color=0e75b6&style=flat" alt="paul-sharon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-## 🌟 About Me  
 
-### 🔭 Current Work  
-**👔 Currently at:** ***Geojit Technologies***  
+- 🔭 I’m currently working on **Geojit Technologies**
 
-### 🌱 Learning New Skills  
-**📚 Currently learning:**   
-- ***Flutter***   
-- ***Spring Boot***  
+- 🌱 I’m currently learning **Flutter & Spring-boot**
 
-### 💬 Let's Connect  
-**🤔 Ask me about:**   
-- ***Java***   
-- ***Spring Boot***   
-- ***Dart***   
-- ***Flutter***  
+- 💬 Ask me about **Java,spring-boot,dart,flutter**
 
-### 📫 Contact Me  
-**📧 Email me at:** ***[paulsharons66@gmail.com](mailto:paulsharons66@gmail.com)***  
+- 📫 How to reach me **paulsharons66@gmail.com**
 
----  
-
-### 📱 Connect with me:  
-<p align="left">  
-<a href="https://www.linkedin.com/in/paul-sharon-simenthy-8160bb2ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul sharon simenthy" height="30" width="40" /></a>  
-<a href="https://www.instagram.com/sharon_simenthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharon_simenthy" height="30" width="40" /></a>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/paul-sharon-simenthy-8160bb2ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul sharon simenthy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sharon_simenthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharon_simenthy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
