@@ -1,6 +1,6 @@
-   [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Paul-sharon.io)
-<h1 align="center">Hi 👋, I'm Paul Sharon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paul+Sharon+Simenthy!;" />
+</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul-sharon&label=Profile%20views&color=0e75b6&style=flat" alt="paul-sharon" /> </p>
 
