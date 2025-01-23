@@ -84,16 +84,16 @@
    </tr>
    <tr>
       <td align="center" width="96">
-         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" /></a>
-         <br>Flask
+         <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
+         <br>Flutter
+      </td>
+      <td align="center" width="96">
+         <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" /></a>
+         <br>Spring Boot
       </td>
       <td align="center" width="96">
          <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40" /></a>
          <br>Android
-      </td>
-      <td align="center" width="96">
-         <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
-         <br>GitHub
       </td>
       <td align="center" width="96">
          <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" /></a>
@@ -106,10 +106,6 @@
       <td align="center" width="96">
          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="Linux" width="40" height="40" /></a>
          <br>Linux
-      </td>
-      <td align="center" width="96">
-         <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="40" height="40" /></a>
-         <br>Photoshop
       </td>
    </tr>
    <tr>
@@ -131,6 +127,7 @@
       </td>
    </tr>
 </table>
+
 
 
 <p align="center">
