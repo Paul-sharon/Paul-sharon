@@ -154,13 +154,14 @@
       </td>
    </tr>
 </table>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto;">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paul-sharon&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=paul-sharon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" />
