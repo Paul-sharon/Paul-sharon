@@ -20,45 +20,21 @@
 <a href="https://www.instagram.com/sharon_simenthy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharon_simenthy" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">🚀 Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-    </a>
-</p>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff;">🚀 Languages and Tools:</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px; background-color: #1e1e1e; border-radius: 10px;">
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">Java</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">C</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">C#</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">Python</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">Django</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">HTML5</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">CSS3</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">JavaScript</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">PHP</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">Linux</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">Node.js</div>
+    <div style="padding: 10px 20px; background: #333333; color: #ffffff; font-size: 16px; border-radius: 8px; font-family: 'Arial', sans-serif;">React</div>
+</div>
 
 <p align="center">
   <!-- Top Languages Card -->
