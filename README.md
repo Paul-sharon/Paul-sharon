@@ -155,11 +155,13 @@
    </tr>
 </table>
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=paul-sharon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<h2 align="center">My GitHub Stats</h2>  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" /> 
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=paul-sharon&show_icons=true&theme=dark" alt="GitHub Stats" />  
+</p> 
 
