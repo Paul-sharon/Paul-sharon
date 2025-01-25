@@ -159,7 +159,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=paul-sharon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul-sharon&theme=dark" alt="GitHub Streak Stats" />  
+</p> 
 
