@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter & Spring-boot**
 
-- 💬 Ask me about **Java,spring-boot,dart,flutter**
+- 💬 Ask me about **Java,C,flutter**
 
 - 📫 How to reach me **paulsharons66@gmail.com**
 
